@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SuperMarketDataClasses">
+  <DataContextMoniker Name="/SuperMarketDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f08e91f8-b9f8-4975-8659-09ff1f11dcc2" absoluteBounds="4.875, 0.5, 2, 1.7220992024739581">
+      <DataClassMoniker Name="/SuperMarketDataClassesDataContext/SIMS_user" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1d8d091f-c8b1-47cf-ac00-024ad57a6228" absoluteBounds="4.89, 0.96, 1.9700000000000002, 1.1620992024739583" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1cfaa2d8-8726-4f67-b224-9c89a8eaf4a9" absoluteBounds="2.875, 0.5, 2, 2.2764815266927085">
+      <DataClassMoniker Name="/SuperMarketDataClassesDataContext/SIMS_commodity" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fd0f6fce-2a17-48d8-ab01-07b349121c90" absoluteBounds="2.89, 0.96, 1.9700000000000002, 1.7164815266927085" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b71d2b1a-4d5b-4871-93b0-d6ca2c725a3d" absoluteBounds="0.875, 0.5, 2, 1.3525109863281251">
+      <DataClassMoniker Name="/SuperMarketDataClassesDataContext/SISM_commodityclass" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5425da3e-2d73-43f7-a5f6-03d1d43433a8" absoluteBounds="0.89000000000000012, 0.96, 1.9700000000000002, 0.792510986328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="617a67ef-4a85-4a87-ac16-7b275bf9c363" absoluteBounds="0.875, 1.875, 2, 1.9068933105468751">
+      <DataClassMoniker Name="/SuperMarketDataClassesDataContext/SISM_console" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d81f3c09-3ada-4a90-885d-25c38993f3ac" absoluteBounds="0.89000000000000057, 2.335, 1.9700000000000002, 1.346893310546875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

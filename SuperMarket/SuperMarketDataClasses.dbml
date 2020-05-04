@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SuperMarketDB" Class="SuperMarketDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-J1KAGPQ;Initial Catalog=SuperMarketDB;Integrated Security=True" SettingsObjectName="SuperMarket.Properties.Settings" SettingsPropertyName="SuperMarketDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.SIMS_user" Member="SIMS_user">
+    <Type Name="SIMS_user">
+      <Column Name="userName" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="userPwd" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="userSex" Type="System.String" DbType="VarChar(2)" CanBeNull="true" />
+      <Column Name="userPhone" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="note" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SIMS_commodity" Member="SIMS_commodity">
+    <Type Name="SIMS_commodity">
+      <Column Name="CId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CBuyPrice" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CSalePrice" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CType" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CQty" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CPicture" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CNote" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SISM_commodityclass" Member="SISM_commodityclass">
+    <Type Name="SISM_commodityclass">
+      <Column Name="SId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="SNote" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SISM_console" Member="SISM_console">
+    <Type Name="SISM_console">
+      <Column Name="RId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Number" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Price" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Choose" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

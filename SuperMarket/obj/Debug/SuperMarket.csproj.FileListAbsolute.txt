@@ -1,0 +1,44 @@
+c:\users\0-0\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.CommodityClassMangmentForm.resources
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.FormConnodityMangment.resources
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.FormLogin.resources
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.FormMain.resources
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.FormUserMangment.resources
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\Administrator\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojResolveAssemblyReference.cache
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.CommodityClassMangmentForm.resources
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.FormInstock.resources
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.FormLogin.resources
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.FormMain.resources
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.FormOutstock.resources
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.FormUserMangment.resources
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.Cache
+C:\Users\0-0\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.FormCommodityMangment.resources
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.csprojResolveAssemblyReference.cache
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.CommodityClassMangmentForm.resources
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.FormCommodityMangment.resources
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.FormInstock.resources
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.FormLogin.resources
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.FormMain.resources
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.FormOutstock.resources
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.FormUserMangment.resources
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\0-0\Desktop\c# 软件1173 郑秋 05\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.Cache
